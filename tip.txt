@@ -1,1 +1,6 @@
 you learn git and git hub
+git init
+git add .
+git commit
+git push/pull
+origin main>>>>branches
